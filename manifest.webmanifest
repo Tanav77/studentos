@@ -1,0 +1,19 @@
+{
+  "name": "StudentOS — Your student life, in sync",
+  "short_name": "StudentOS",
+  "description": "An offline-ready study and student life workspace.",
+  "lang": "en",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07110f",
+  "theme_color": "#07110f",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
